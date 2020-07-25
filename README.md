@@ -42,3 +42,8 @@ Designing Application with Spring Boot 2 & React JS is divided into three parts.
 
 ## WHO THIS BOOK IS FOR
 Designing Application with Spring Boot 2.2 & React JS is for all Java developers who want to learn Spring Boot 2.2 and React JS as in the enterprise application. Therefore, enterprise Java developers will find it particularly useful in the understanding of Spring Boot 2.2 and React JS and how to develop a backend RESTful application using the Spring Boot 2.2 and frontend application using React JS framework. They will most fully appreciate the examples presented in this book. Before reading this book, readers should have basic knowledge of core java, spring, servlet, filter, XML, and JavaScript.
+
+## Related products
+Advanced Web Development with React [[BPB](https://bpbonline.com/products/advanced-web-development-with-react-ssr-and-pwa-with-next-js-using-react-with-advanced-concepts?_pos=1&_sid=864aecb79&_ss=r "BPB")] [[Amazon](https://www.amazon.in/Advanced-Development-React-Mehul-Mohan/dp/9389423597/ref=sr_1_2?dchild=1&keywords=Advanced+Web+Development+with+React&qid=1595667727&sr=8-2 "Amazon")]
+
+Mastering Sharepoint Framework [[BPB](https://bpbonline.com/products/mastering-sharepoint-framework-master-the-sharepoint-framework-development-with-easy-to-follow-examples?_pos=1&_sid=14f2ebf7b&_ss=r "BPB")] [[Amazon](https://www.amazon.in/Mastering-Sharepoint-Framework-Easy-Follow/dp/938932887X/ref=sr_1_1?dchild=1&keywords=Mastering+Sharepoint+Framework&qid=1595667848&sr=8-1 "Amazon")]
