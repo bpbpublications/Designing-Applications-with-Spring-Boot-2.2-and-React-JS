@@ -55,23 +55,13 @@ in
 ```
 With the following software and hardware list you can run all code files present in the book.
 
-##### Chapter number | Software required (With version)  |  Hardware specifications
-
-
-Chapter 1-7 | Java 8, Spring Boot 2.0, Spring Boot CLI  |  Minimum Free 4GB RAM
-
-
-Chapter 1-7  |  Spring Tool Suite Version: 3.9.4.RELEASE  |   Minimum Free 4GB RAM, Optimum Free, 8 GB RAM
-
-
-Chapter 1-7 |  Spring Tool Suite Version: 3.9.4.RELEASE  Java 8 Tomcat 8 |    Minimum Free 4GB RAM, Optimum  Free, 8 GB RAM
-
-
-Chapter 1-10  |  Spring Boot 2.0, Spring Cloud, Docker, Java 8  |  Minimum Free 4GB RAM, Optimum, Free 8 GB RAM
-
-
-ALL   |  Maven 3.5.0   |   Free 4GB RAM
-
+|Chapter number | Software required (With version) | Hardware specifications|
+| ------------ | ------------ | ------------ |
+|Chapter 1-7 | Java 8, Spring Boot 2.0, Spring Boot CLI | Minimum Free 4GB RAM|
+| Chapter 1-7 | Spring Tool Suite Version: 3.9.4.RELEASE | Minimum Free 4GB RAM, Optimum Free, 8 GB RAM|
+| Chapter 1-7 | Spring Tool Suite Version: 3.9.4.RELEASE Java 8 Tomcat 8 | Minimum Free 4GB RAM, Optimum Free, 8 GB RAM|
+|Chapter 1-10 | Spring Boot 2.0, Spring Cloud, Docker, Java 8 | Minimum Free 4GB RAM, Optimum, Free 8 GB RAM|
+|ALL | Maven 3.5.0 | Free 4GB RAM|
 
 ## Related products
 Advanced Web Development with React [[BPB](https://bpbonline.com/products/advanced-web-development-with-react-ssr-and-pwa-with-next-js-using-react-with-advanced-concepts?_pos=1&_sid=864aecb79&_ss=r "BPB")] [[Amazon](https://www.amazon.in/Advanced-Development-React-Mehul-Mohan/dp/9389423597/ref=sr_1_2?dchild=1&keywords=Advanced+Web+Development+with+React&qid=1595667727&sr=8-2 "Amazon")]
