@@ -7,7 +7,7 @@
 This is the code repository for [Designing Applications with Spring Boot 2.2 and React JS](https://bpbonline.com/products/700527?_pos=3&_sid=df0ff5a00&_ss=r "Designing Applications with Spring Boot 2.2 and React JS"), published by BPB Publications.
 
 # Getting the Book
-You can [get the book from here](https://bpbonline.com/products/700527?_pos=3&_sid=df0ff5a00&_ss=r "Designing Applications with Spring Boot 2.2 and React JS "get the book from here").
+You can [get the book from here](https://bpbonline.com/products/700527?_pos=3&_sid=df0ff5a00&_ss=r\)
 
 # What is this book about?
 Designing Application with Spring Boot 2 & React JS is divided into three parts. The first part introduces you to the essentials of the Spring Boot 2.2 Framework and you will learn how to create REST APIs and how to secure REST APIs. Part 2 steps behind the front end application development with React JS and discuss React features and its advantages toward the front end application development. Part 3 expands on that by showing how to deploy backend and frontend application the PaaS platform and also will discuss how to deploy application container technologies such as Docker. A step-by-step guide to design and develop intuitive full-stack web applications.
