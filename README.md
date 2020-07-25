@@ -55,11 +55,11 @@ in
 ```
 With the following software and hardware list you can run all code files present in the book.
 
+##### Chapter number | Software required (With version)  |  Hardware specifications
 
-**Chapter number | Software required (With version)  |  Hardware specifications
-**
 
 Chapter 1-7 | Java 8, Spring Boot 2.0, Spring Boot CLI  |  Minimum Free 4GB RAM
+
 
 Chapter 1-7  |  Spring Tool Suite Version: 3.9.4.RELEASE  |   Minimum Free 4GB RAM, Optimum Free, 8 GB RAM
 
