@@ -41,7 +41,7 @@
     "react": "^16.8.4",
     "react-app-polyfill": "^0.2.2",
     "react-confirm-alert": "^2.4.1",
-    "react-dev-utils": "^8.0.0",
+    "react-dev-utils": "^11.0.4",
     "react-dom": "^16.8.4",
     "react-skylight": "^0.5.1",
     "react-table": "^6.9.2",
